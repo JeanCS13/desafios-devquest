@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.titulos{
+    font-size: 32px;
+    margin: 20px;
+    text-decoration: underline;
+}
+
+.subtitulos{
+    font-size: 26px;
+    margin: 20px;
+}
+
+.moda, .casa {
+    margin-left: 20px;
+}
+
+.cabecalho-moda{
+    background-color: #bb86fc;
+    text-align: center;
+    color: #fcfcfc;
+}
+
+.cabecalho-casa{
+    background-color: #00c4b4;
+    text-align: center;
+    color: #fcfcfc;
+}
+
+.cabecalho-moda th, .cabecalho-casa th{
+    padding: 10px 15px;
+    font-size: 20px;
+}
+
+.fundo-tabela{
+    background-color: #424250;
+    color: #fcfcfc;
+    text-align: left;
+    font-size: 20px;
+}
+
+.fundo-tabela td {
+    padding: 5px 10px;
+}
+
